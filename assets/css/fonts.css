@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128+Text&display=swap');
+
+:root {
+    --font-principal: 'Lexend Exa', sans-serif;
+    --font-logo: 'Libre Barcode 128 Text', cursive;
+}

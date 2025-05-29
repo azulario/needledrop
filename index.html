@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NeedleDrop - Controle de Estoque</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+
+    <div class="container"> 
+
+        <!-- Header com logo -->
+
+        <header class="header">
+          
+            <div class="logo">NeedleDrop</div>              
+            <p class="slogan">"O controle da tinta antes da primeira gota."</p>
+
+        </header>
+
+        <!-- Card do formulário -->
+
+        <section class="form-card">
+
+            <h2 class="form-title">
+                Preencha os campos para adicionar ou remover um item! 📦
+            </h2>
+            
+            <form class="item-form">
+
+                <input type="text" placeholder="Nome do Item" class="input-field">
+
+                <input type="number" placeholder="Quantidade" class="input-field">
+                
+                <div 
+                class="button-group">
+
+                    <button type="button" class="btn btn-add">ADICIONAR</button>
+                    <button type="button" class="btn btn-subtract">SUBTRAIR</button>
+
+                </div>
+
+            </form>
+
+        </section>
+
+        <!-- Card da lista -->
+
+        <section class="list-card">
+
+            <div class="list-header">
+
+                <span>ITEM</span>
+                <span>QUANTIDADE</span>
+                <span>REMOVER</span>
+
+            </div>
+            <div class="list-content" id="item-list">
+
+                <!-- Itens serão inseridos aqui via JavaScript -->
+            </div>
+
+        </section>
+
+    </div>
+
+</body>
+
+</html>
