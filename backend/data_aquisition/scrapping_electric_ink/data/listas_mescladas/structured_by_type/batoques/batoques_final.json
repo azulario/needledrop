@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Electric Ink Cleaning Cap",
+    "brand": "Electric Ink",
+    "availableOptions": [
+      "20 Un."
+    ],
+    "availablePrice": [
+      "R$ 18,90"
+    ],
+    "materialType": "Batoques"
+  },
+  {
+    "name": "Ink Cap - Batoques De Silicone Azul",
+    "brand": "Electric Ink",
+    "availableOptions": [
+      "G (200 Un.)",
+      "G (50 Un.)",
+      "GG (100 Un.)",
+      "GG (25 Un.)",
+      "M (300 Un.)",
+      "M (80 Un.)",
+      "P (140 Un.)",
+      "P (500 Un.)"
+      
+    ],
+    "availablePrice": [
+      "R$ 12,00",
+      "R$ 14,00",
+      "R$ 15,00",
+      "R$ 17,00",
+      "R$ 27,90",
+      "R$ 37,90",
+      "R$ 38,90",
+      "R$ 46,90"
+    ],
+    "materialType": "Batoques"
+  },
+  {
+    "name": "Ink Cap - Batoques De Silicone Branco",
+    "brand": "Electric Ink",
+    "availableOptions": [
+      "P (140 Un.)",
+      "M (80 Un.)",
+      "G (50 Un.)",
+      "GG (25 Un.)"
+    ],
+    "availablePrice": [
+      "R$ 12,00",
+      "R$ 14,00",
+      "R$ 15,00",
+      "R$ 17,00"
+    ],
+    "materialType": "Batoques"
+  },
+  {
+    "name": "Ink Cap - Batoques De Silicone Rosa",
+    "brand": "Electric Ink",
+    "availableOptions": [
+      "G (200 Un.)",
+      "G (50 Un.)",
+      "GG (100 Un.)",
+      "GG (25 Un.)",
+      "M (300 Un.)",
+      "M (80 Un.)",
+      "P (140 Un.)",
+      "P (500 Un.)"
+    ],
+    "availablePrice": [
+      "R$ 12,00",
+      "R$ 14,00",
+      "R$ 15,00",
+      "R$ 17,00",
+      "R$ 27,90",
+      "R$ 37,90",
+      "R$ 38,90",
+      "R$ 46,90"
+    ],
+    "materialType": "Batoques"
+  },
+  {
+    "name": "Ink Cap - Batoques Descartáveis Esterilizados (360 Un.)",
+    "brand": "Electric Ink",
+    "availableOptions": [
+      "M"
+    ],
+    "availablePrice": [
+      "R$ 34,60"
+    ],
+    "materialType": "Batoques"
+  },
+  {
+    "name": "Ink Cap - Batoques Descartáveis Esterilizados (480 Un.)",
+    "brand": "Electric Ink",
+    "availableOptions": [
+      "480 Un."
+    ],
+    "availablePrice": [
+      "R$ 34,60"
+    ],
+    "materialType": "Batoques"
+  }
+
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Classic Thermal - Spirit Paper Original",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "05 Un.",
+      "20 Un."
+    ],
+    "all_available_prices": [
+      "R$ 32,40",
+      "R$ 108,00"
+    ],
+    "lowest_price": "R$ 32,40",
+    "highest_price": "R$ 108,00",
+    "material_type": "Materiais para Stencil",
+    "tipo": "Papel Térmico",
+    "volume": null,
+    "opcoes": [
+      {
+        "medida_string": "05 Un.",
+        "quantidade": 5
+      },
+      {
+        "medida_string": "20 Un.",
+        "quantidade": 20
+      }
+    ]
+  },
+  {
+    "name": "Kit Tattoo Stencil Transfer IT - C/12 Un.",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "1ml"
+    ],
+    "all_available_prices": [
+      "R$ 17,40"
+    ],
+    "lowest_price": "R$ 17,40",
+    "highest_price": "R$ 17,40",
+    "material_type": "Materiais para Stencil",
+    "tipo": "Transfer",
+    "volume": null,
+    "opcoes": [
+      {
+        "medida_string": "1ml",
+        "medida_valor": "1ml"
+      }
+    ]
+  },
+  {
+    "name": "Kit Tattoo Vaseline Slip - C/12 Un.",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "12 Un."
+    ],
+    "all_available_prices": [
+      "R$ 35,50"
+    ],
+    "lowest_price": "R$ 35,50",
+    "highest_price": "R$ 35,50",
+    "material_type": "Materiais para Stencil",
+    "tipo": "Vaselina",
+    "volume": null,
+    "opcoes": [
+      {
+        "medida_string": "12 Un.",
+        "quantidade": 12
+      }
+    ]
+  },
+  {
+    "name": "Tattoo Stencil Transfer IT",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "120ml",
+      "240ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 33,00",
+      "R$ 55,60",
+      "R$ 69,40"
+    ],
+    "lowest_price": "R$ 33,00",
+    "highest_price": "R$ 69,40",
+    "material_type": "Materiais para Stencil",
+    "tipo": "Transfer",
+    "volume": null,
+    "opcoes": [
+      {
+        "medida_string": "120ml",
+        "medida_valor": "120ml"
+      },
+      {
+        "medida_string": "240ml",
+        "medida_valor": "240ml"
+      },
+      {
+        "medida_string": "30ml",
+        "medida_valor": "30ml"
+      }
+    ]
+  },
+  {
+    "name": "Tattoo Stencil Transfer IT 1ml",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "1ml"
+    ],
+    "all_available_prices": [
+      "R$ 1,70"
+    ],
+    "lowest_price": "R$ 1,70",
+    "highest_price": "R$ 1,70",
+    "material_type": "Materiais para Stencil",
+    "tipo": "Transfer",
+    "volume": "1ml",
+    "opcoes": [
+      {
+        "medida_string": "1ml",
+        "medida_valor": "1ml"
+      }
+    ]
+  },
+  {
+    "name": "Tattoo Vaseline Slip",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "250g",
+      "800g",
+      "90g"
+    ],
+    "all_available_prices": [
+      "R$ 31,90",
+      "R$ 36,70",
+      "R$ 83,90"
+    ],
+    "lowest_price": "R$ 31,90",
+    "highest_price": "R$ 83,90",
+    "material_type": "Materiais para Stencil",
+    "tipo": "Vaselina",
+    "volume": null,
+    "opcoes": [
+      {
+        "medida_string": "250g",
+        "medida_valor": "250g"
+      },
+      {
+        "medida_string": "800g",
+        "medida_valor": "800g"
+      },
+      {
+        "medida_string": "90g",
+        "medida_valor": "90g"
+      }
+    ]
+  },
+  {
+    "name": "Tattoo Vaseline Slip - 5g",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 3,29"
+    ],
+    "lowest_price": "R$ 3,29",
+    "highest_price": "R$ 3,29",
+    "material_type": "Materiais para Stencil",
+    "tipo": "Vaselina",
+    "volume": "5g",
+    "opcoes": []
+  }
+]

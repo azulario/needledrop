@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Bateria De LI-ON Para Impressora PJ763 E PJ773 Brother",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [],
+    "lowest_price": null,
+    "highest_price": null,
+    "material_type": "Outros Cosméticos",
+    "tipo": "Impressora",
+    "equipamento": true,
+    "kit": false
+  },
+  {
+    "name": "Estojo De Transporte Para Impressora PJ763 E PJ773 Brother",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [],
+    "lowest_price": null,
+    "highest_price": null,
+    "material_type": "Outros Cosméticos",
+    "tipo": "Impressora",
+    "equipamento": true,
+    "kit": false
+  },
+  {
+    "name": "Impressora Brother PJ763 - Compatível Com USB E Sistema Bluetooth De Dispositivos Androids",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 4966,90"
+    ],
+    "lowest_price": "R$ 4966,90",
+    "highest_price": "R$ 4966,90",
+    "material_type": "Outros Cosméticos",
+    "tipo": "Impressora",
+    "equipamento": true,
+    "kit": false
+  },
+  {
+    "name": "Impressora Brother PJ773 - Com Wi-Fi E USB",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [],
+    "lowest_price": null,
+    "highest_price": null,
+    "material_type": "Outros Cosméticos",
+    "tipo": "Impressora",
+    "equipamento": true,
+    "kit": false
+  },
+  {
+    "name": "Kit Tattoo Barrier Film - C/8 Un.",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "8 Un."
+    ],
+    "all_available_prices": [
+      "R$ 379,00"
+    ],
+    "lowest_price": "R$ 379,00",
+    "highest_price": "R$ 379,00",
+    "material_type": "Outros Cosméticos",
+    "tipo": "Kit",
+    "equipamento": false,
+    "kit": true
+  },
+  {
+    "name": "Tattoo Protection 15 CM X 5 M",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [],
+    "lowest_price": null,
+    "highest_price": null,
+    "material_type": "Outros Cosméticos",
+    "tipo": "Protetor",
+    "equipamento": false,
+    "kit": false
+  },
+  {
+    "name": "Tattoo To Go",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 26,70"
+    ],
+    "lowest_price": "R$ 26,70",
+    "highest_price": "R$ 26,70",
+    "material_type": "Outros Cosméticos",
+    "tipo": "Protetor Portátil",
+    "equipamento": false,
+    "kit": false
+  }
+]

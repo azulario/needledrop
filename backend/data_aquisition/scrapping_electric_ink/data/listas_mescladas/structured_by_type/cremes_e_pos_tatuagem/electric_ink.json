@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Kit Butter / Manteiga - Cat Slobber - C/12 Un.",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "12 Un."
+    ],
+    "all_available_prices": [
+      "R$ 58,00"
+    ],
+    "lowest_price": "R$ 58,00",
+    "highest_price": "R$ 58,00",
+    "material_type": "Cremes e Pós-Tatuagem",
+    "tipo": "Manteiga",
+    "volume": null,
+    "kit": true,
+    "monodose": false
+  },
+  {
+    "name": "Kit Tattoo Cream Derma - C/12 Un.",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "12 Un."
+    ],
+    "all_available_prices": [
+      "R$ 355,00"
+    ],
+    "lowest_price": "R$ 355,00",
+    "highest_price": "R$ 355,00",
+    "material_type": "Cremes e Pós-Tatuagem",
+    "tipo": "Creme",
+    "volume": null,
+    "kit": true,
+    "monodose": false
+  },
+  {
+    "name": "Monodose Butter / Manteiga - Cat Slobber",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "5g"
+    ],
+    "all_available_prices": [
+      "R$ 5,40"
+    ],
+    "lowest_price": "R$ 5,40",
+    "highest_price": "R$ 5,40",
+    "material_type": "Cremes e Pós-Tatuagem",
+    "tipo": "Manteiga",
+    "volume": null,
+    "kit": false,
+    "monodose": true
+  },
+  {
+    "name": "Papel Manteiga",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 5,40"
+    ],
+    "lowest_price": "R$ 5,40",
+    "highest_price": "R$ 5,40",
+    "material_type": "Cremes e Pós-Tatuagem",
+    "tipo": "Manteiga",
+    "volume": null,
+    "kit": false,
+    "monodose": false
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Tattoo Stencil Transfer IT",
+    "availableOptions": [
+      "120ml",
+      "240ml",
+      "30ml"
+    ],
+    "availablePrice": [
+      "R$ 33,00",
+      "R$ 55,60",
+      "R$ 69,40"
+    ],
+    "materialType": "Materiais para Stencil"
+  },
+  {
+    "name": "Tattoo Clean Up",
+    "availableOptions": [
+      "1000ml",
+      "200ml",
+      "90ml"
+    ],
+    "availablePrice": [
+      "R$ 34,90",
+      "R$ 39,90",
+      "R$ 40,90"
+    ],
+    "materialType": "Outros Cosméticos"
+  },
+  {
+    "name": "Tattoo Vaseline Slip",
+    "availableOptions": [
+      "250g",
+      "800g",
+      "90g"
+    ],
+    "availablePrice": [
+      "R$ 31,90",
+      "R$ 36,70",
+      "R$ 83,90"
+    ],
+    "materialType": "Materiais para Stencil"
+  },
+  {
+    "name": "Tattoo After All",
+    "availableOptions": [
+      "250ml",
+      "90ml"
+    ],
+    "availablePrice": [
+      "R$ 38,90",
+      "R$ 48,90"
+    ],
+    "materialType": "Higiene e Limpeza Corporal"
+  },
+  {
+    "name": "Tattoo Cleaning Water",
+    "availableOptions": [
+      "1 L"
+    ],
+    "availablePrice": [
+      "R$ 22,90"
+    ],
+    "materialType": "Outros Cosméticos"
+  },
+  {
+    "name": "Electric Ink The Gloo",
+    "availableOptions": [
+      "240ml",
+      "30ml"
+    ],
+    "availablePrice": [
+      "R$ 43,10",
+      "R$ 78,70"
+    ],
+    "materialType": "Higiene e Limpeza Corporal"
+  },
+  {
+    "name": "Classic Thermal - Spirit Paper Original",
+    "availableOptions": [
+      "05 Un.",
+      "20 Un."
+    ],
+    "availablePrice": [
+      "R$ 32,40",
+      "R$ 108,00"
+    ],
+    "materialType": "Outros Cosméticos"
+  },
+  {
+    "name": "Tattoo Stencil Transfer IT 1ml",
+    "availableOptions": [
+      "1ml"
+    ],
+    "availablePrice": [
+      "R$ 1,70"
+    ],
+    "materialType": "Materiais para Stencil"
+  },
+  {
+    "name": "Electric Ink Skin Scrub Out 2ml",
+    "availableOptions": [
+      "2ml"
+    ],
+    "availablePrice": [
+      "R$ 2,90"
+    ],
+    "materialType": "Higiene e Limpeza Corporal"
+  },
+  {
+    "name": "Kit Tattoo Stencil Transfer IT - C/12 Un.",
+    "availableOptions": [
+      "1ml"
+    ],
+    "availablePrice": [
+      "R$ 17,40"
+    ],
+    "materialType": "Materiais para Stencil"
+  },
+  {
+    "name": "Monodose Butter / Manteiga - Cat Slobber",
+    "availableOptions": [
+      "5g"
+    ],
+    "availablePrice": [
+      "R$ 5,40"
+    ],
+    "materialType": "Cremes e Pós-Tatuagem"
+  },
+  {
+    "name": "Tattoo Cleaning Water - C/12 Un.",
+    "availableOptions": [
+      "12 Un."
+    ],
+    "availablePrice": [
+      "R$ 46,90"
+    ],
+    "materialType": "Outros Cosméticos"
+  },
+  {
+    "name": "Kit Butter / Manteiga - Cat Slobber - C/12 Un.",
+    "availableOptions": [
+      "12 Un."
+    ],
+    "availablePrice": [
+      "R$ 58,00"
+    ],
+    "materialType": "Cremes e Pós-Tatuagem"
+  },
+  {
+    "name": "Kit Tattoo Cream Derma - C/12 Un.",
+    "availableOptions": [
+      "12 Un."
+    ],
+    "availablePrice": [
+      "R$ 355,00"
+    ],
+    "materialType": "Outros Cosméticos"
+  },
+  {
+    "name": "Kit Tattoo Vaseline Slip - C/12 Un.",
+    "availableOptions": [
+      "12 Un."
+    ],
+    "availablePrice": [
+      "R$ 35,50"
+    ],
+    "materialType": "Outros Cosméticos"
+  },
+  {
+    "name": "Tattoo Vaseline Slip - 5g",
+    "availableOptions": [],
+    "availablePrice": [
+      "R$ 3,29"
+    ],
+    "materialType": "Outros Cosméticos"
+  },
+  {
+    "name": "Kit Tattoo Barrier Film - C/8 Un.",
+    "availableOptions": [
+      "8 Un."
+    ],
+    "availablePrice": [
+      "R$ 379,00"
+    ],
+    "materialType": "Outros Cosméticos"
+  },
+  {
+    "name": "Impressora Brother PJ763 - Compatível Com USB E Sistema Bluetooth De Dispositivos Androids",
+    "availableOptions": [],
+    "availablePrice": [
+      "R$ 4.966,90"
+    ],
+    "materialType": "Outros Cosméticos"
+  },
+  {
+    "name": "Tattoo To Go",
+    "availableOptions": [],
+    "availablePrice": [
+      "R$ 26,70"
+    ],
+    "materialType": "Outros Cosméticos"
+  },
+  {
+    "name": "Tattoo Protection 15 CM X 5 M",
+    "availableOptions": [],
+    "availablePrice": [],
+    "materialType": "Outros Cosméticos"
+  },
+  {
+    "name": "Bateria De LI-ON Para Impressora PJ763 E PJ773 Brother",
+    "availableOptions": [],
+    "availablePrice": [],
+    "materialType": "Outros Cosméticos"
+  },
+  {
+    "name": "Impressora Brother PJ773 - Com Wi-Fi E USB",
+    "availableOptions": [],
+    "availablePrice": [],
+    "materialType": "Outros Cosméticos"
+  },
+  {
+    "name": "Conj. Folha De Limpeza Impressora Brother - 05 Un.",
+    "availableOptions": [
+      "05 Un."
+    ],
+    "availablePrice": [],
+    "materialType": "Higiene e Limpeza Corporal"
+  },
+  {
+    "name": "Estojo De Transporte Para Impressora PJ763 E PJ773 Brother",
+    "availableOptions": [],
+    "availablePrice": [],
+    "materialType": "Outros Cosméticos"
+  }
+]

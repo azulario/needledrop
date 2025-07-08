@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Electric Ink Cleaning Cap",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "20 Un."
+    ],
+    "all_available_prices": [
+      "R$ 18,90"
+    ],
+    "lowest_price": "R$ 18,90",
+    "highest_price": "R$ 18,90",
+    "material_type": "Batoques"
+  },
+  {
+    "name": "Ink Cap - Batoques De Silicone Azul",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "G (200 Un.)",
+      "G (50 Un.)",
+      "GG (100 Un.)",
+      "GG (25 Un.)",
+      "M (300 Un.)",
+      "M (80 Un.)",
+      "P (140 Un.)",
+      "P (500 Un.)"
+    ],
+    "all_available_prices": [
+      "R$ 46,90"
+    ],
+    "lowest_price": "R$ 46,90",
+    "highest_price": "R$ 46,90",
+    "material_type": "Batoques"
+  },
+  {
+    "name": "Ink Cap - Batoques De Silicone Branco",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 17,00"
+    ],
+    "lowest_price": "R$ 17,00",
+    "highest_price": "R$ 17,00",
+    "material_type": "Batoques"
+  },
+  {
+    "name": "Ink Cap - Batoques De Silicone Rosa",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "G (200 Un.)",
+      "G (50 Un.)",
+      "GG (100 Un.)",
+      "GG (25 Un.)",
+      "M (300 Un.)",
+      "M (80 Un.)",
+      "P (140 Un.)",
+      "P (500 Un.)"
+    ],
+    "all_available_prices": [
+      "R$ 46,90"
+    ],
+    "lowest_price": "R$ 46,90",
+    "highest_price": "R$ 46,90",
+    "material_type": "Batoques"
+  },
+  {
+    "name": "Ink Cap - Batoques Descartáveis Esterilizados (360 Un.)",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "M"
+    ],
+    "all_available_prices": [
+      "R$ 34,60"
+    ],
+    "lowest_price": "R$ 34,60",
+    "highest_price": "R$ 34,60",
+    "material_type": "Batoques"
+  },
+  {
+    "name": "Ink Cap - Batoques Descartáveis Esterilizados (480 Un.)",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "480 Un."
+    ],
+    "all_available_prices": [
+      "R$ 34,60"
+    ],
+    "lowest_price": "R$ 34,60",
+    "highest_price": "R$ 34,60",
+    "material_type": "Batoques"
+  },
+  {
+    "name": "Ink Cap - Batoques de Silicone Azul",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 12,00",
+      "R$ 14,00",
+      "R$ 15,00",
+      "R$ 17,00",
+      "R$ 27,90",
+      "R$ 37,90",
+      "R$ 38,90",
+      "R$ 46,90"
+    ],
+    "lowest_price": "R$ 12,00",
+    "highest_price": "R$ 46,90",
+    "material_type": "Batoques"
+  },
+  {
+    "name": "Ink Cap - Batoques de Silicone Branco",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 12,00",
+      "R$ 14,00",
+      "R$ 15,00",
+      "R$ 17,00"
+    ],
+    "lowest_price": "R$ 12,00",
+    "highest_price": "R$ 17,00",
+    "material_type": "Batoques"
+  },
+  {
+    "name": "Ink Cap - Batoques de Silicone Rosa",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 12,00",
+      "R$ 14,00",
+      "R$ 15,00",
+      "R$ 17,00",
+      "R$ 27,90",
+      "R$ 37,90",
+      "R$ 38,90",
+      "R$ 46,90"
+    ],
+    "lowest_price": "R$ 12,00",
+    "highest_price": "R$ 46,90",
+    "material_type": "Batoques"
+  }
+]

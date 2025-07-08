@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Luva Nitrílica Electric Ink Isenta de Pó - Azul",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 32,40"
+    ],
+    "lowest_price": "R$ 32,40",
+    "highest_price": "R$ 32,40",
+    "material_type": "Luvas",
+    "tipo": "Luva Nitrílica",
+    "material": "Nitrílica",
+    "isenta_de_po": true,
+    "cor": "Azul",
+    "tamanho": "L"
+  },
+  {
+    "name": "Luva Nitrílica Isenta De Pó - Preta",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "G",
+      "M (esgotado)",
+      "P"
+    ],
+    "all_available_prices": [
+      "R$ 34,99"
+    ],
+    "lowest_price": "R$ 34,99",
+    "highest_price": "R$ 34,99",
+    "material_type": "Luvas",
+    "tipo": "Luva Nitrílica",
+    "material": "Nitrílica",
+    "isenta_de_po": true,
+    "cor": "Preta",
+    "tamanho": "L"
+  },
+  {
+    "name": "Luva Nitrílica Isenta de Pó - Preta",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 34,99"
+    ],
+    "lowest_price": "R$ 34,99",
+    "highest_price": "R$ 34,99",
+    "material_type": "Luvas",
+    "tipo": "Luva Nitrílica",
+    "material": "Nitrílica",
+    "isenta_de_po": true,
+    "cor": "Preta",
+    "tamanho": "L"
+  }
+]

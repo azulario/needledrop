@@ -9,12 +9,20 @@ Projeto em desenvolvimento como parte da PEX 1 de Análise e Desenvolvimento de 
 ## ✏️ Atualizações recentes  
 - A parte em JavaScript foi temporariamente retirada para ser reestruturada posteriormente, de forma a se adequar ao novo layout atualizado.
 - A estrutura de HTML e CSS está finalizada conforme o protótipo definido no Figma.
+- Estrutura base do projeto organizada com pastas para assets, backend e frontend
+- Preparação para implementação da parte de scraping de dados (backend)
 
 ## 💻 Tecnologias previstas  
 - HTML  
 - CSS  
 - JavaScript (em breve, reformulado)   
-- LocalStorage
+- LocalStorage (a ser implementado)
+- Node.js com Puppeteer (para scraping de dados)
+
+🔧 Estrutura do projeto
+- Frontend: Interface de controle de estoque com formulário para adição/remoção de itens
+- Backend: Sistema de aquisição de dados para catálogo de produtos de tatuagem
+- Armazenamento: Dados salvos localmente para acesso offline
 
 ## 🎯 Objetivo  
 Ajudar tatuadores a manterem um controle eficiente de materiais como tintas, agulhas e equipamentos, otimizando a gestão do estúdio.

@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Conj. Folha De Limpeza Impressora Brother - 05 Un.",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "05 Un."
+    ],
+    "all_available_prices": [],
+    "lowest_price": null,
+    "highest_price": null,
+    "material_type": "Higiene e Limpeza Corporal",
+    "tipo": null,
+    "volume": null,
+    "opcoes_volume": []
+  },
+  {
+    "name": "Electric Ink Skin Scrub Out 2ml",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "2ml"
+    ],
+    "all_available_prices": [
+      "R$ 2,90"
+    ],
+    "lowest_price": "R$ 2,90",
+    "highest_price": "R$ 2,90",
+    "material_type": "Higiene e Limpeza Corporal",
+    "tipo": "Esfoliante",
+    "volume": "2ml",
+    "opcoes_volume": [
+      {
+        "volume_string": "2ml",
+        "volume_valor": "2ml"
+      }
+    ]
+  },
+  {
+    "name": "Electric Ink The Gloo",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "240ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 43,10",
+      "R$ 78,70"
+    ],
+    "lowest_price": "R$ 43,10",
+    "highest_price": "R$ 78,70",
+    "material_type": "Higiene e Limpeza Corporal",
+    "tipo": "Cola para Estêncil",
+    "volume": null,
+    "opcoes_volume": [
+      {
+        "volume_string": "240ml",
+        "volume_valor": "240ml"
+      },
+      {
+        "volume_string": "30ml",
+        "volume_valor": "30ml"
+      }
+    ]
+  },
+  {
+    "name": "Tattoo After All",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "250ml",
+      "90ml"
+    ],
+    "all_available_prices": [
+      "R$ 38,90",
+      "R$ 48,90"
+    ],
+    "lowest_price": "R$ 38,90",
+    "highest_price": "R$ 48,90",
+    "material_type": "Higiene e Limpeza Corporal",
+    "tipo": "Hidratante Pós-Tatuagem",
+    "volume": null,
+    "opcoes_volume": [
+      {
+        "volume_string": "250ml",
+        "volume_valor": "250ml"
+      },
+      {
+        "volume_string": "90ml",
+        "volume_valor": "90ml"
+      }
+    ]
+  },
+  {
+    "name": "Tattoo Clean Up",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "1000ml",
+      "200ml",
+      "90ml"
+    ],
+    "all_available_prices": [
+      "R$ 34,90",
+      "R$ 39,90",
+      "R$ 40,90"
+    ],
+    "lowest_price": "R$ 34,90",
+    "highest_price": "R$ 40,90",
+    "material_type": "Higiene e Limpeza Corporal",
+    "tipo": "Solução de Limpeza",
+    "volume": null,
+    "opcoes_volume": [
+      {
+        "volume_string": "1000ml",
+        "volume_valor": "1000ml"
+      },
+      {
+        "volume_string": "200ml",
+        "volume_valor": "200ml"
+      },
+      {
+        "volume_string": "90ml",
+        "volume_valor": "90ml"
+      }
+    ]
+  },
+  {
+    "name": "Tattoo Cleaning Water",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "1 L"
+    ],
+    "all_available_prices": [
+      "R$ 22,90"
+    ],
+    "lowest_price": "R$ 22,90",
+    "highest_price": "R$ 22,90",
+    "material_type": "Higiene e Limpeza Corporal",
+    "tipo": "Água de Limpeza",
+    "volume": null,
+    "opcoes_volume": []
+  },
+  {
+    "name": "Tattoo Cleaning Water - C/12 Un.",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "12 Un."
+    ],
+    "all_available_prices": [
+      "R$ 46,90"
+    ],
+    "lowest_price": "R$ 46,90",
+    "highest_price": "R$ 46,90",
+    "material_type": "Higiene e Limpeza Corporal",
+    "tipo": "Água de Limpeza",
+    "volume": null,
+    "opcoes_volume": []
+  }
+]

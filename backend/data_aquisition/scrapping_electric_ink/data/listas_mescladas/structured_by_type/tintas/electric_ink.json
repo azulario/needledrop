@@ -1,0 +1,1183 @@
+[
+  {
+    "name": "Amarelo Canário",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Amarelo Limão",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Amarelo Ouro",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Amarelo Real",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Ameixa",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Amora",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Areia",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Azul Bebê",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Azul Céu",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Azul Jeans",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Azul Mar",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Azul Médio",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Azul Royal",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Azul Turquesa",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Banana",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Bege",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Blush",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Borracha Grommet Preto - 50 Un. (Recomendado Para Máquinas De Bobinas)",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "50 Un."
+    ],
+    "all_available_prices": [
+      "R$ 11,90"
+    ],
+    "lowest_price": "R$ 11,90",
+    "highest_price": "R$ 11,90",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Borracha Grommet Preto - 50 Un. (Recomendado para Máquinas de Bobinas)",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 11,90"
+    ],
+    "lowest_price": "R$ 11,90",
+    "highest_price": "R$ 11,90",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Branco Mix",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Branco Real",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "120ml (esgotado)",
+      "15ml",
+      "30ml",
+      "60ml (esgotado)"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99",
+      "R$ 136,60",
+      "R$ 233,30"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 233,30",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Bronze",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Camurça",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Canela",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Chiclete",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Chocolate",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Cinza Azulado 1",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Cinza Azulado 2",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Cinza Naval",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Cinza Prata",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Creme",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Diluente",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 39,70",
+      "R$ 69,80",
+      "R$ 236,00"
+    ],
+    "lowest_price": "R$ 39,70",
+    "highest_price": "R$ 236,00",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Fecho E Porca Electra - Electric Ink",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 108,00"
+    ],
+    "lowest_price": "R$ 108,00",
+    "highest_price": "R$ 108,00",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Ferrugem",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Laranja Oriental",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Laranja Papaya",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Laranja Pastel",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Laranja Real",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Lavanda",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Lilás",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Luva Nitrílica Electric Ink Isenta De Pó - Azul",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [],
+    "lowest_price": null,
+    "highest_price": null,
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Magenta",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Marfim",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Marrom Claro",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Marrom Escuro",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Midnight Blue",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Mostarda",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Natural",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Pele",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Pele Bebê",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Pele Escuro",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Pink",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Preto Linha",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "240ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99",
+      "R$ 339,10"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 339,10",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Preto Maori",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Preto Marfim",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Preto Tribal",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "240ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99",
+      "R$ 339,10"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 339,10",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Pêssego",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Rosa",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Rosa Bebê",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Rosa Choque",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Roxo Escuro",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Salmão",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Sumi Claro",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Sumi Escuro",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Switch SW4 - Preto Fosco",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 2916,00"
+    ],
+    "lowest_price": "R$ 2916,00",
+    "highest_price": "R$ 2916,00",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Tinta 1 Gi (Samurai Standoff)",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 85,20"
+    ],
+    "lowest_price": "R$ 85,20",
+    "highest_price": "R$ 85,20",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Tinta 2 Yuu (Samurai Standoff)",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 85,20"
+    ],
+    "lowest_price": "R$ 85,20",
+    "highest_price": "R$ 85,20",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Tinta 3 Jin (Samurai Standoff)",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 85,20"
+    ],
+    "lowest_price": "R$ 85,20",
+    "highest_price": "R$ 85,20",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Tinta 4 Rei (Samurai Standoff)",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 85,20"
+    ],
+    "lowest_price": "R$ 85,20",
+    "highest_price": "R$ 85,20",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Tinta 5 Makoto (Samurai Standoff)",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 85,20"
+    ],
+    "lowest_price": "R$ 85,20",
+    "highest_price": "R$ 85,20",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Tinta 6 Meiyo (Samurai Standoff)",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 85,20"
+    ],
+    "lowest_price": "R$ 85,20",
+    "highest_price": "R$ 85,20",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Tinta 7 Chuu (Samurai Standoff)",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 85,20"
+    ],
+    "lowest_price": "R$ 85,20",
+    "highest_price": "R$ 85,20",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Tinta Preto Imperador (Samurai Standoff)",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 85,20"
+    ],
+    "lowest_price": "R$ 85,20",
+    "highest_price": "R$ 85,20",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Tinta White Standoff (Samurai Standoff)",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 85,20"
+    ],
+    "lowest_price": "R$ 85,20",
+    "highest_price": "R$ 85,20",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Turquesa",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Uva",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Uva Claro",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Verde Bandeira",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Verde Claro",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Verde Esmeralda",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Verde Folha",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Verde Limão",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Verde Mar",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Verde Menta",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Verde Musgo",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Verde Turquesa",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Verde Água",
+    "brand": "Electric Ink",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Violeta",
+    "brand": "Electric Ink",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  }
+]

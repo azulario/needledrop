@@ -1,0 +1,996 @@
+[
+  {
+    "name": "Atlantic Green EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Bear Brown EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Blood Red EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Brilliant Green EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Brunette EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Bubblegum EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Bus Yellow EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Camaro Red EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Canary Yellow EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Caribbean Blue EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Caribbean Green EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Cinnamon EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Coconut Cream EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Coral EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Dandelion EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Deep Violet EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Deepest Green EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Deepest Pink EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Eagle Brown EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Electric Blue EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Electric Pink EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Electric Purple EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Fire Red EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Florida Orange EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Ghost White EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "240ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99",
+      "R$ 339,10"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 339,10",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Golden Tan EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Hard Blue EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Hard Candy EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Light Pink EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Lipstick Red EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Magenta EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Maya Blue EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Mellow Yellow EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Monkey Brown EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml (esgotado)",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Moss Green EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Mustard EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Navy Blue EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Navy Grey EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml (esgotado)"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Old School Blue EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Old School Red 1 EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Old School Red 2 EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Old School Yellow 1 EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Olympic Blue EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Orange EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Orchid Purple EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Pacific Green EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Peach EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Pink EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Purple Power EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Raven Black EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "240ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99",
+      "R$ 339,10"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 339,10",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Raven Black EG - 1,5ml",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "5ml"
+    ],
+    "all_available_prices": [
+      "R$ 6,00"
+    ],
+    "lowest_price": "R$ 6,00",
+    "highest_price": "R$ 6,00",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Raven Black Fineline EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "240ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99",
+      "R$ 339,10"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 339,10",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Raven Black Fineline EG - 1,5ml",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "5ml"
+    ],
+    "all_available_prices": [
+      "R$ 6,00"
+    ],
+    "lowest_price": "R$ 6,00",
+    "highest_price": "R$ 6,00",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Red EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Reddish EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Rose EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Salmon EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Sandlewood EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Sapphire Blue EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Shark Grey EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Snake Brown EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Snake Green EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Steel Blue EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Steel Grey EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Sunshine Orange EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Teal EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "True Green EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Ultra Liner Black EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99",
+      "R$ 339,10"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 339,10",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Ultra Liner Black EG 1,5ml",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "5ml"
+    ],
+    "all_available_prices": [
+      "R$ 6,00"
+    ],
+    "lowest_price": "R$ 6,00",
+    "highest_price": "R$ 6,00",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Vampire Red EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Walnut EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  },
+  {
+    "name": "Wine Purple EG",
+    "brand": "Easy Glow",
+    "available_options_raw": [
+      "15ml",
+      "30ml"
+    ],
+    "all_available_prices": [
+      "R$ 45,99",
+      "R$ 81,99"
+    ],
+    "lowest_price": "R$ 45,99",
+    "highest_price": "R$ 81,99",
+    "material_type": "Tintas"
+  }
+]
